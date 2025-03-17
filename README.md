@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a web application designed to [briefly describe the application's purpose].
+We are changing this
 
 ## Getting Started
 
